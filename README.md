@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Guilherme da Rosa</h1>
-<h1 align="center">I'm Guilherme da Rosa</h1>
 
 - 🌱 I’m currently learning **tailwind and figma**
 
