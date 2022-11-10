@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Guilherme da Rosa</h1>
 
-- 🌱 I’m currently learning **redux and jest**
+- 🌱 I’m currently learning **zustand and jest**
 
 - 📫 How to reach me **rosa.guilhermediogo@gmail.com**
 
