@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Guilherme da Rosa</h1>
 
-- 🌱 I’m currently learning **zustand and jest**
+- 🌱 I’m currently learning **typescript and nextjs**
 
 - 📫 How to reach me **rosa.guilhermediogo@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilherme--rosa/](https://www.linkedin.com/in/guilherme--rosa/)
 
-- ⚡ Fun fact **I have a cute white cat**
+- ⚡ Fun fact **I have a cute white cat and a crazy orange one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
