@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Guilherme da Rosa</h1>
 
-- 🌱 I’m currently learning **typescript and nextjs**
+- 🌱 I’m working as a frontend developer and bachelor's student in applied mathematics at UFRGS
 
 - 📫 How to reach me **rosa.guilhermediogo@gmail.com**
 
